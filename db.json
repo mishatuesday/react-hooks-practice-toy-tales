@@ -7,12 +7,6 @@
       "likes": 8
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
@@ -61,22 +55,22 @@
       "likes": 0
     },
     {
-      "id": 11,
-      "name": "Evel Kneivel",
-      "image": "https://s3files.core77.com/blog/images/1094441_81_101333_w_gmKhDEF.jpg",
-      "likes": 0
-    },
-    {
-      "id": 22,
-      "name": "Stretch Armstrong",
-      "image": "https://i.ebayimg.com/images/g/1mEAAOSw6Jxa~EiJ/s-l500.jpg",
-      "likes": 0
-    },
-    {
       "name": "Weeble",
       "image": "https://cdn.thisiswhyimbroke.com/buying-guides-thumb/333/the-original-weebles_400x.jpg",
       "likes": 0,
-      "id": 23
+      "id": 11
+    },
+    {
+      "name": "Evel Kneivel",
+      "image": "https://cdn.shopify.com/s/files/1/0016/2329/3997/files/ad_5_gradient_2048x2048.png?v=1636162536",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Stretch Armstrong",
+      "image": "https://i.ebayimg.com/images/g/1mEAAOSw6Jxa~EiJ/s-l500.jpg",
+      "likes": 0,
+      "id": 17
     }
   ]
 }

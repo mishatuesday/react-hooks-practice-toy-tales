@@ -18,7 +18,7 @@ function App() {
   function handleClick() {
     setShowForm((showForm) => !showForm);
   }
-
+  
   return (
     <>
       <Header />
@@ -26,7 +26,7 @@ function App() {
       <div className="buttonContainer">
         <button onClick={handleClick}>{showForm ? "^ hide form ^" : "Add a Toy"}</button>
       </div>
-      <ToyContainer toyData={toyData} />
+      <ToyContainer toyDataUrl={toyDataUrl} setToyData={setToyData} toyData={toyData} />
     </>
   );
 }
