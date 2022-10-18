@@ -10,7 +10,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 11
     },
     {
       "id": 4,
@@ -22,7 +22,7 @@
       "id": 5,
       "name": "Rex",
       "image": "https://www.pngkey.com/png/detail/4-49608_rex-rex-toy-story-png.png",
-      "likes": 1
+      "likes": 17
     },
     {
       "id": 6,
@@ -34,42 +34,42 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 5
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 41
     },
     {
       "id": 9,
       "name": "Raydeen",
       "image": "https://wheeljackslab.b-cdn.net/wp-content/uploads/sales-images/246991/raydeen-jumbo-complete-24-boxed-shogun-warriors-vintage-1970s-mattel-figure.jpg",
-      "likes": 0
+      "likes": 89
     },
     {
       "id": 10,
       "name": "Mazinga",
       "image": "https://i.ebayimg.com/images/g/6AgAAOSw4phhx9bv/s-l400.jpg",
-      "likes": 0
+      "likes": 78
     },
     {
       "name": "Weeble",
       "image": "https://cdn.thisiswhyimbroke.com/buying-guides-thumb/333/the-original-weebles_400x.jpg",
-      "likes": 0,
+      "likes": 2,
       "id": 11
     },
     {
       "name": "Evel Kneivel",
       "image": "https://cdn.shopify.com/s/files/1/0016/2329/3997/files/ad_5_gradient_2048x2048.png?v=1636162536",
-      "likes": 0,
+      "likes": 22,
       "id": 14
     },
     {
       "name": "Stretch Armstrong",
       "image": "https://i.ebayimg.com/images/g/1mEAAOSw6Jxa~EiJ/s-l500.jpg",
-      "likes": 0,
+      "likes": 9,
       "id": 17
     }
   ]
